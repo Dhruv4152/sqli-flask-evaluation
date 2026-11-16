@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+database_proj1/
+instance/
+*.db
+.env
